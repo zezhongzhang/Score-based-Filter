@@ -1,6 +1,6 @@
 # A score-based filter for nonlinear data assimilation
 Code repository for the paper:  
-**A score-based filter for nonlinear data assimilation**
+**A score-based filter for nonlinear data assimilation**  
 [Feng Bao](https://www.math.fsu.edu/~bao/), [Zezhong Zhang](https://www.ornl.gov/staff-profile/zezhong-zhang), [Guannan Zhang](https://sites.google.com/view/guannan-zhang)
 
 
